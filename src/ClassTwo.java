@@ -1,2 +1,4 @@
-public class ClassTwo {
+public class ClassTwo
+{
+ Void other()
 }
