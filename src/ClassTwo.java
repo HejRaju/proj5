@@ -1,4 +1,4 @@
 public class ClassTwo
 {
- Void other()
+ Void other("ff")
 }
